@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fGJgW7kVT96znDIXYCcl4CgZBJpaR1rCJM4KPdmWpNRN0QF0uEl+Azww4dD/lZUZs3OwvxKhiyh+ZhZNYADLxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paweł\\Pulpit\\Pluginy SCP SL\\Ready to Use Plugins\\SCP079-Escape\\SCP079-Escape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paweł\\.nuget\\packages\\exmod.exiled\\9.3.0\\exmod.exiled.9.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
